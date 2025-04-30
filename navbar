@@ -1,0 +1,15 @@
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li class="dropdown">
+                <a class="dropbtn">Recipes</a>
+                <ul class="dropdown-content">
+                    <li><a href="Subpages/Recipes/Bigos.html">Bigos</a></li>
+                    <li><a href="Subpages/Recipes/Zurek.html">Żurek</a></li>
+                    <li><a href="Subpages/Recipes/Golabki.html">Gołąbki</a></li>
+                    <li><a href="Subpages/Recipes/Pierogi.html">Pierogi</a></li>
+                </ul>
+                <li><a href="Subpages/Contact.html">Contact</a></li>
+            </li>
+        </ul>
+    </nav>
